@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hXeMePJ20dPw53+vFGqGlFcXP/0FxyTDp4CTDN9iMHE=",
+  "Source": "app-backend",
+  "BasePath": "_content/app-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
